@@ -1,8 +1,9 @@
-modif LBA
+exrterne
 BBBB
 CCCC
 DDDD
-EEEE
-FFFF
+externe
+externe
+ajout_externe
 modif_LBA
 modif_LBA
