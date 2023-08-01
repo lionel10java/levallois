@@ -4,6 +4,6 @@ CCCC
 DDDD
 externe
 externe
-ajout_externe
+ajout_externe  //solve conflit
 modif_LBA
 modif_LBA
